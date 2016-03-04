@@ -1,0 +1,14 @@
+C:\Users\Kowal\Desktop\lab2\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Kowal\Desktop\lab2\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Kowal\Desktop\lab2\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Kowal\Desktop\lab2\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Kowal\Desktop\lab2\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+G:\,a ORW\oor labs\lab2\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+G:\,a ORW\oor labs\lab2\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+G:\,a ORW\oor labs\lab2\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\lenovozme\Desktop\,a ORW\oor labs\lab2\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\lenovozme\Desktop\,a ORW\oor labs\lab2\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\lenovozme\Desktop\,a ORW\oor labs\lab2\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\lenovozme\Desktop\,a ORW\oor labs\lab2\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\lenovozme\Desktop\,a ORW\oor labs\lab2\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\lenovozme\Desktop\,a ORW\oor labs\lab2\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
